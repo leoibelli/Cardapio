@@ -1,0 +1,29 @@
+dt {
+    font-weight: bold;
+    color:forestgreen;
+}
+label {
+    font-weight: bold;
+    color:forestgreen;
+}
+h3{
+    text-align: center;
+}
+
+#div1{
+    border:solid 1px;
+    border-radius:0px 20px 0px 20px;
+    border-width: 20px;
+    border-color: forestgreen;
+  }
+#div2{
+    border:solid 1px;
+    border-radius:0px 20px 0px 20px;
+    border-width: 20px;
+    border-color: forestgreen;
+  }
+  #div3{
+    border:solid 1px;
+    border-radius:0px 20px 0px 20px;
+    border-width: 20px;
+    border-color: forestgreen;
